@@ -1,10 +1,10 @@
 # Hi, I'm Aung Hein! 👋
 
-🚀 I'm a Web developer. I love to create user-friendly responsive web applications. My specialization is React and Node Js. Check out my portfolio https://aung-hein-portfolio.vercel.app/
+🚀 I'm a Web developer. I love to create user-friendly responsive web applications. My specialization is React and Node Js. Check out my portfolio https://aung-cho-hein-portfolio.vercel.app/
 
 #### 📭 Reach me out!
 
-[![portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=ko-fi&logoColor=white)](https://aung-hein-portfolio.vercel.app/)
+[![portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=ko-fi&logoColor=white)](https://aung-cho-hein-portfolio.vercel.app/)
 
 [![Mail Badge](https://img.shields.io/badge/aunghein-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:aungcho2003@gmail.com)
 
